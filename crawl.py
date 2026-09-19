@@ -130,16 +130,25 @@ def process_vongcam():
     return out
 
 # ================= CO LA =================
+from datetime import datetime, timedelta, timezone
+
+VN_TZ = timezone(timedelta(hours=7))
+
 def process_cala_tv():
     out = []
     data = fetch_json("https://api.cltvlv.com/api/matches")
+
     for key, item in data.get("data", {}).items():
-        dt = datetime.fromtimestamp(item.get("matchTime", datetime.now().timestamp()))
+        timestamp = item.get("matchTime", datetime.now().timestamp())
+        dt = datetime.fromtimestamp(timestamp, tz=VN_TZ)
+
         home = item.get("home_team", {})
         away = item.get("away_team", {})
         streams = item.get("anchorAppointmentVoList", [])
+
         stream_url = None
         blv_name = "Chính"
+
         for s in streams:
             if s.get("anchorName"):
                 blv_name = s.get("anchorName")
@@ -149,6 +158,7 @@ def process_cala_tv():
                     break
             if stream_url:
                 break
+
         out.append({
             "time": dt,
             "group": "CO LA TV",
@@ -157,6 +167,7 @@ def process_cala_tv():
             "url": stream_url,
             "blv": blv_name
         })
+
     return out
 
 # ================= TAM QUOC =================
