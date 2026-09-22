@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | Barracas Central vs Independiente Rivadavia",
+          "id": "CO LA TV-071500",
+          "name": "⚽ 07:15 | Lanus vs CLB Estudiantes La Plata",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",
+            "url": "https://img.gvapi.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-050000",
+              "id": "CO LA TV-071500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-050000",
-                  "name": "05:00 | Barracas Central vs Independiente Rivadavia",
+                  "id": "CO LA TV-071500",
+                  "name": "07:15 | Lanus vs CLB Estudiantes La Plata",
                   "streams": [
                     {
-                      "id": "CO LA TV-050000",
+                      "id": "CO LA TV-071500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -63,7 +63,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/97885009_tsc.m3u8"
                         }
                       ]
                     }
@@ -74,8 +74,8 @@
           ]
         },
         {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | Club Leon Nữ vs Juarez Nữ",
+          "id": "CO LA TV-080500",
+          "name": "⚽ 08:05 | Santos Laguna Nữ vs Cruz Azul Nữ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80",
+            "url": "https://img.gvapi.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -97,15 +97,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-060000",
+              "id": "CO LA TV-080500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | Club Leon Nữ vs Juarez Nữ",
+                  "id": "CO LA TV-080500",
+                  "name": "08:05 | Santos Laguna Nữ vs Cruz Azul Nữ",
                   "streams": [
                     {
-                      "id": "CO LA TV-060000",
+                      "id": "CO LA TV-080500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -174,56 +174,6 @@
           ]
         },
         {
-          "id": "CO LA TV-071500",
-          "name": "⚽ 07:15 | Lanus vs CLB Estudiantes La Plata",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-071500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-071500",
-                  "name": "07:15 | Lanus vs CLB Estudiantes La Plata",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-071500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/97885009_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-073000",
           "name": "⚽ 07:30 | CLB Cuiaba vs Nautico",
           "type": "single",
@@ -264,56 +214,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-080600",
-          "name": "⚽ 08:06 | Santos Laguna Nữ vs Cruz Azul Nữ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-080600",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-080600",
-                  "name": "08:06 | Santos Laguna Nữ vs Cruz Azul Nữ",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-080600",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
                         }
                       ]
                     }
@@ -2263,7 +2163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/08552895_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/87379114_tsc.m3u8"
                         }
                       ]
                     }
