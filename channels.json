@@ -24,156 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | Connecticut Sun vs Toronto Tempo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | Connecticut Sun vs Toronto Tempo",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-063000",
-          "name": "⚽ 06:30 | Washington Mystics vs Chicago Sky",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-063000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-063000",
-                  "name": "06:30 | Washington Mystics vs Chicago Sky",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-063000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-063000",
-          "name": "⚽ 06:30 | Everton vs U. De Chile",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-063000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-063000",
-                  "name": "06:30 | Everton vs U. De Chile",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-063000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-070000",
           "name": "⚽ 07:00 | Cộng hòa Dominican vs Nicaragua",
           "type": "single",
@@ -214,6 +64,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-072000",
+          "name": "⚽ 07:20 | Haiti vs Trinidad & Tobago",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-072000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-072000",
+                  "name": "07:20 | Haiti vs Trinidad & Tobago",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-072000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-070000",
+          "name": "⚽ 07:00 | Cayman Islands vs Dominica",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-070000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-070000",
+                  "name": "07:00 | Cayman Islands vs Dominica",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-070000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
                         }
                       ]
                     }
@@ -274,8 +224,8 @@
           ]
         },
         {
-          "id": "CO LA TV-070000",
-          "name": "⚽ 07:00 | Quần đảo Cayman vs Dominica",
+          "id": "CO LA TV-063000",
+          "name": "⚽ 06:30 | Everton vs U. De Chile",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -283,7 +233,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80",
+            "url": "https://img.gvapi.cc/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -297,15 +247,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-070000",
+              "id": "CO LA TV-063000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-070000",
-                  "name": "07:00 | Quần đảo Cayman vs Dominica",
+                  "id": "CO LA TV-063000",
+                  "name": "06:30 | Everton vs U. De Chile",
                   "streams": [
                     {
-                      "id": "CO LA TV-070000",
+                      "id": "CO LA TV-063000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -313,57 +263,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-070000",
-          "name": "⚽ 07:00 | Haiti vs Trinidad & Tobago",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-070000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-070000",
-                  "name": "07:00 | Haiti vs Trinidad & Tobago",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-070000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/07428422_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
                         }
                       ]
                     }
