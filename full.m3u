@@ -1,24 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png!w80",10:00 | El Salvador vs Martinique
-https://live05.meung.app/live/87547578_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",10:00 | Club Tijuana vs Atlas
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",16:00 | Pakistan vs Thái Lan
 https://live05.meung.app/live/14830711_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",12:00 | Seoul Knights vs Wonju Dongbu Promy
-https://live05.meung.app/live/87379114_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80",13:00 | Trung Quốc U23 vs Thái Lan U23
-https://live05.meung.app/live/07808742_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",14:30 | Mobis Phoebus vs LG Sakers
-https://live05.meung.app/live/19919577_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80",15:00 | CLB Omiya Ardija vs CLB Ventforet
 https://live05.meung.app/live/99121525_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",16:00 | Pakistan vs Thái Lan
-https://live05.meung.app/live/78905744_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80",16:00 | FK Chelyabinsk vs Yenisey Krasnoyarsk
 https://live05.meung.app/live/90865415_tsc.m3u8
@@ -32,9 +17,6 @@ https://live05.meung.app/live/16226575_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/cb76c8ffac95e7e5429aca574aab5deb.png!w80",19:00 | Ceuta vs R Sociedad B
 https://live05.meung.app/live/82054853_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",19:30 | ĐTQG Việt Nam vs Philippines
-https://live05.meung.app/live/33982309_tsc.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",20:00 | Nam Phi vs Guinea
 https://live05.meung.app/live/14707124_tsc.m3u8
 
@@ -44,11 +26,17 @@ https://live05.meung.app/live/75748097_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w80",20:00 | Kenya vs Eritrea
 https://live05.meung.app/live/75915087_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/32a7374258cbbb6e851992f820de53d6.png!w80",21:00 | Minsk FK Nữ vs Fenerbahce SK Women
+https://live05.meung.app/live/07808742_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80",21:15 | Granada vs Andorra
 https://live05.meung.app/live/97885009_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80",22:55 | Kuwait vs Iraq
 https://live05.meung.app/live/08552895_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/77772713a7d7e02b10ca9bd90e4f6a31.png!w80",23:00 | ĐTQG Iceland vs Estonia
+https://live05.meung.app/live/33982309_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3c057cb2b41f22c0e740974d7a428918.png!w80",23:00 | ĐTQG Bulgaria vs Luxembourg
 https://live05.meung.app/live/02456966_tsc.m3u8
@@ -56,6 +44,18 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9bdc3efe2bdc1946dbb253b2d101b484.png!w80",23:00 | CLB San Marino vs ĐTQG Phần Lan
 https://live05.meung.app/live/07428422_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/90c34175923a36ab7a5de4b981c1972f.png!w80",23:00 | Quần đảo Faroe vs ĐTQG Kazakhstan
+https://live05.meung.app/live/87547578_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/3090d2868936f0f73f36844a43d5ce8f.png!w80",23:30 | Celta Vigo B vs CLB Sabadell
 https://live05.meung.app/live/18812304_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80",01:45 | Cộng hòa Séc vs Croatia
+https://live05.meung.app/live/87379114_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",06:07 | Chivas Guadalajara vs Queretaro
+https://live05.meung.app/live/78905744_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.gvapi.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80",12:00 | Busan KTF Sonicboom vs Goyang Carrot Jumpers
+https://live05.meung.app/live/19919577_tsc.m3u8
 
