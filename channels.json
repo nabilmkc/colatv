@@ -24,256 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-200000",
-          "name": "⚽ 20:00 | ĐTQG Phần Lan vs Đội tuyển QG Albania",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/3c0b84f6c8ee0d929021de10cbb8cc69.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-200000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-200000",
-                  "name": "20:00 | ĐTQG Phần Lan vs Đội tuyển QG Albania",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-200000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/08552895_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-190000",
-          "name": "⚽ 19:00 | CLB Albacete vs CLB Eibar",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a2f731e9147f64082f22b9a561425308.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-190000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-190000",
-                  "name": "19:00 | CLB Albacete vs CLB Eibar",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-190000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/14707124_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-210000",
-          "name": "⚽ 21:00 | Đội tuyển quốc gia Ấn Độ vs Brazil",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-210000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-210000",
-                  "name": "21:00 | Đội tuyển quốc gia Ấn Độ vs Brazil",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-210000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-210000",
-          "name": "⚽ 21:00 | Thame vs CLB Eastbourne Borough",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/2e4a131290ccce2a2cfde871b34aa4a7.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-210000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-210000",
-                  "name": "21:00 | Thame vs CLB Eastbourne Borough",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-210000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/16226575_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-211500",
-          "name": "⚽ 21:15 | CLB Almeria vs Burgos CF",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/d019943fa39f97f70cf49601cccbfa4b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-211500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-211500",
-                  "name": "21:15 | CLB Almeria vs Burgos CF",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-211500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/87547578_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-230000",
           "name": "⚽ 23:00 | Croatia vs ĐTQG Anh",
           "type": "single",
@@ -314,6 +64,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/08552895_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-230000",
+          "name": "⚽ 23:00 | ĐTQG Iceland vs ĐTQG Bulgaria",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/77772713a7d7e02b10ca9bd90e4f6a31.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-230000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-230000",
+                  "name": "23:00 | ĐTQG Iceland vs ĐTQG Bulgaria",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-230000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
@@ -374,8 +174,8 @@
           ]
         },
         {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | ĐTQG Iceland vs ĐTQG Bulgaria",
+          "id": "CO LA TV-225500",
+          "name": "⚽ 22:55 | Ả Rập Saudi vs Qatar",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -383,7 +183,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/77772713a7d7e02b10ca9bd90e4f6a31.png!w80",
+            "url": "https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -397,15 +197,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-230000",
+              "id": "CO LA TV-225500",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | ĐTQG Iceland vs ĐTQG Bulgaria",
+                  "id": "CO LA TV-225500",
+                  "name": "22:55 | Ả Rập Saudi vs Qatar",
                   "streams": [
                     {
-                      "id": "CO LA TV-230000",
+                      "id": "CO LA TV-225500",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -413,7 +213,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/07808742_tsc.m3u8"
                         }
                       ]
                     }
@@ -864,56 +664,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.meung.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | Atlanta Dream vs New York Liberty",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | Atlanta Dream vs New York Liberty",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.meung.app/live/82054853_tsc.m3u8"
                         }
                       ]
                     }
@@ -2213,7 +1963,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.meung.app/live/33982309_tsc.m3u8"
+                          "url": "https://live05.meung.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
