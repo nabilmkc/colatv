@@ -24,108 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | Sarmiento Junin vs River Plate",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/173f9983cdfd064d8bdd1a341e1bd8e4.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-050000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-050000",
-                  "name": "05:00 | Sarmiento Junin vs River Plate",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-050000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-050000",
-          "name": "⚽ 05:00 | CLB Atletico Mineiro vs Montevideo City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-050000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-050000",
-                  "name": "05:00 | CLB Atletico Mineiro vs Montevideo City",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-050000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/07808742_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-063000",
-          "name": "⚽ 06:30 | Inter Miami vs New York City",
+          "id": "CO LA TV-064000",
+          "name": "⚽ 06:40 | Inter Miami vs New York City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,15 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-063000",
+              "id": "CO LA TV-064000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-063000",
-                  "name": "06:30 | Inter Miami vs New York City",
+                  "id": "CO LA TV-064000",
+                  "name": "06:40 | Inter Miami vs New York City",
                   "streams": [
                     {
-                      "id": "CO LA TV-063000",
+                      "id": "CO LA TV-064000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -164,6 +64,156 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/59444581_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-064000",
+          "name": "⚽ 06:40 | CLB Toronto vs Orlando City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-064000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-064000",
+                  "name": "06:40 | CLB Toronto vs Orlando City",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-064000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/18812304_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | Fluminense RJ vs Palmeiras",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | Fluminense RJ vs Palmeiras",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/49572724_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | CLB Nashville vs Kansas City",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | CLB Nashville vs Kansas City",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.zhwpg.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
@@ -214,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/19919577_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-063000",
-          "name": "⚽ 06:30 | CLB Toronto vs Orlando City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-063000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-063000",
-                  "name": "06:30 | CLB Toronto vs Orlando City",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-063000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -425,56 +425,6 @@
         },
         {
           "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Fluminense RJ vs Palmeiras",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Fluminense RJ vs Palmeiras",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/49572724_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
           "name": "⚽ 07:30 | CLB Chicago Fire vs CLB Philadelphia Union",
           "type": "single",
           "display": "thumbnail-only",
@@ -514,56 +464,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.zhwpg.app/live/07808742_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | CLB Nashville vs Kansas City",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | CLB Nashville vs Kansas City",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.zhwpg.app/live/02456966_tsc.m3u8"
                         }
                       ]
                     }
