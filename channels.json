@@ -24,356 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | FC Bayern München vs Arsenal",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | FC Bayern München vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/08552895_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Real Madrid CF vs RB Leipzig",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Real Madrid CF vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/07428422_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Inter Milan vs Câu lạc bộ bóng đá Shakhtar Donetsk",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Inter Milan vs Câu lạc bộ bóng đá Shakhtar Donetsk",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/87547578_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Aston Villa vs Viking FK",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Aston Villa vs Viking FK",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/02456966_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Real Betis Balompié vs Feyenoord",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Real Betis Balompié vs Feyenoord",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/59444581_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Club Brugge vs RC Lens",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Club Brugge vs RC Lens",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/16226575_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-020000",
-          "name": "⚽ 02:00 | Sporting vs LASK Linz",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-020000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-020000",
-                  "name": "02:00 | Sporting vs LASK Linz",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-020000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/99121525_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-050000",
           "name": "⚽ 05:00 | Montevideo City vs CLB Atletico Mineiro",
           "type": "single",
@@ -425,56 +75,6 @@
         },
         {
           "id": "CO LA TV-060000",
-          "name": "⚽ 06:00 | CLB Cincinnati vs DC United",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-060000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-060000",
-                  "name": "06:00 | CLB Cincinnati vs DC United",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-060000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-060000",
           "name": "⚽ 06:00 | Washington Wizards vs Milwaukee Bucks",
           "type": "single",
           "display": "thumbnail-only",
@@ -514,6 +114,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/82054853_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-061000",
+          "name": "⚽ 06:10 | CLB Cincinnati vs DC United",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-061000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-061000",
+                  "name": "06:10 | CLB Cincinnati vs DC United",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-061000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -2224,6 +1874,56 @@
           ]
         },
         {
+          "id": "CO LA TV-010000",
+          "name": "⚽ 01:00 | Al Ahli SC vs Al Khaleej",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/a0a227a6100628d3213e1fc321acd4f2.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-010000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-010000",
+                  "name": "01:00 | Al Ahli SC vs Al Khaleej",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-010000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-020000",
           "name": "⚽ 02:00 | Besiktas JK vs Crystal Palace",
           "type": "single",
@@ -2624,6 +2324,106 @@
           ]
         },
         {
+          "id": "CO LA TV-020000",
+          "name": "⚽ 02:00 | Omonia  vs Benfica",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/21fdafedb4eed8612da51c6c236b3d63.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-020000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-020000",
+                  "name": "02:00 | Omonia  vs Benfica",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-020000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-020000",
+          "name": "⚽ 02:00 | Celje vs FC Red Bull Salzburg",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/a893553fb0ef04426d914ac3eb07433b.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-020000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-020000",
+                  "name": "02:00 | Celje vs FC Red Bull Salzburg",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-020000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-060000",
           "name": "⚽ 06:00 | Philadelphia 76ers vs Cleveland Cavaliers",
           "type": "single",
@@ -2874,6 +2674,206 @@
           ]
         },
         {
+          "id": "CO LA TV-143000",
+          "name": "⚽ 14:30 | Shanghai Port B vs Thành phố vinh quang Lang Phường",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/fef70eb7dee84d19446f52cb3490fd71.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-143000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-143000",
+                  "name": "14:30 | Shanghai Port B vs Thành phố vinh quang Lang Phường",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-143000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/75915087_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-150000",
+          "name": "⚽ 15:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/ec2dbd5c069753ced4b26b40d826ae60.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-150000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-150000",
+                  "name": "15:00 | Tp. Hồ Chí Minh 2 Nữ vs Thái Nguyên Nữ",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-150000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/33982309_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-153000",
+          "name": "⚽ 15:30 | South Melbourne vs Sydney Utd",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-153000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-153000",
+                  "name": "15:30 | South Melbourne vs Sydney Utd",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-153000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-153000",
+          "name": "⚽ 15:30 | Adelaide City FC vs APIA Tigers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/144d2ec9191d3ffe5742433c81d1ed5e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-153000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-153000",
+                  "name": "15:30 | Adelaide City FC vs APIA Tigers",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-153000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/75748097_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-160000",
           "name": "⚽ 16:00 | CLB Brisbane Roar vs CLB Perth Glory",
           "type": "single",
@@ -3074,6 +3074,56 @@
           ]
         },
         {
+          "id": "CO LA TV-170000",
+          "name": "⚽ 17:00 | Câu lạc bộ bóng đá Dynamo Kyiv vs Lái xe đi",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-170000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-170000",
+                  "name": "17:00 | Câu lạc bộ bóng đá Dynamo Kyiv vs Lái xe đi",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-170000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/75915087_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-173000",
           "name": "⚽ 17:30 | Perth Wildcats vs Melbourne Tigers",
           "type": "single",
@@ -3224,6 +3274,56 @@
           ]
         },
         {
+          "id": "CO LA TV-180000",
+          "name": "⚽ 18:00 | Araz Nakhchivan vs Gabala",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/ddc0609d051d17d0b686abce8ae49a15.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-180000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-180000",
+                  "name": "18:00 | Araz Nakhchivan vs Gabala",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-180000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/99121525_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-183500",
           "name": "⚽ 18:35 | Nanjing Toupaisujiu vs Shandong Hi-Speed",
           "type": "single",
@@ -3324,6 +3424,56 @@
           ]
         },
         {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | Ahal vs Al Ansar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/bb9a9d9af0da02ccce0d6b7ab4826724.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | Ahal vs Al Ansar",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/87547578_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-191500",
           "name": "⚽ 19:15 | Thể Công - Viettel vs Bac Ninh",
           "type": "single",
@@ -3364,6 +3514,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/07428422_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-195500",
+          "name": "⚽ 19:55 | Al Fujairah vs Al Wahda",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/d20e05eaa26e170108d9d29c7b48504e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-195500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-195500",
+                  "name": "19:55 | Al Fujairah vs Al Wahda",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-195500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
                         }
                       ]
                     }
@@ -3464,6 +3664,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/59444581_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-210000",
+          "name": "⚽ 21:00 | CLB Pakhtakor vs Neftchi Fargona",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/78dd333913352de8fc4e8b0834636245.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-210000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-210000",
+                  "name": "21:00 | CLB Pakhtakor vs Neftchi Fargona",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-210000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/49572724_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-213000",
+          "name": "⚽ 21:30 | Al Shamal vs Qatar SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-213000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-213000",
+                  "name": "21:30 | Al Shamal vs Qatar SC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-213000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/16226575_tsc.m3u8"
                         }
                       ]
                     }
@@ -3764,6 +4064,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.qioetj.app/live/18812304_tsc.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-234500",
+          "name": "⚽ 23:45 | Al Sailiya vs Al Rayyan",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-234500",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-234500",
+                  "name": "23:45 | Al Sailiya vs Al Rayyan",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-234500",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.qioetj.app/live/33860426_tsc.m3u8"
                         }
                       ]
                     }
