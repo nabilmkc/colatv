@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/8c88df221129169246c5b8a82955fa34.png!w80",04:00 | Utah Jazz vs Los Angeles Lakers
-https://live05.yefpwmc.app/live/19919577_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",08:05 | Club America vs Pachuca
+https://live05.yefpwmc.app/live/99121525_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",06:00 | Minnesota Timberwolves vs Toronto Raptors
-https://live05.yefpwmc.app/live/90865415_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80",06:00 | New York Knicks vs Orlando Magic
-https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",08:10 | Los Angeles FC vs CLB LA Galaxy
+https://live05.yefpwmc.app/live/07808742_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",06:00 | Oklahoma City Thunder vs Los Angeles Clippers
 https://live05.yefpwmc.app/live/89756030_tsc.m3u8
@@ -14,11 +11,8 @@ https://live05.yefpwmc.app/live/89756030_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80",06:30 | Philadelphia 76ers vs Detroit Pistons
 https://live05.yefpwmc.app/live/87379114_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",08:00 | Los Angeles FC vs CLB LA Galaxy
-https://live05.yefpwmc.app/live/07808742_tsc.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",08:05 | Club America vs Pachuca
-https://live05.yefpwmc.app/live/99121525_tsc.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",08:00 | Sacramento Kings vs Memphis Grizzlies
+https://live05.yefpwmc.app/live/19919577_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",10:10 | Club Tijuana vs Santos Laguna
 https://live05.yefpwmc.app/live/14830711_tsc.m3u8
@@ -26,11 +20,17 @@ https://live05.yefpwmc.app/live/14830711_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/5ad3bc248f9d187464ddd33e064a6f24.png!w80",15:00 | FC United Stars vs India Star aviation SC
 https://live05.yefpwmc.app/live/18812304_tsc.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80",17:00 | Goyang Carrot Jumpers vs LG Sakers
+https://live05.yefpwmc.app/live/82054853_tsc.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0f68e99e5c5eb82da0f5f5842d390209.png!w80",17:00 | FC Lochin vs Fergana University
 https://live05.yefpwmc.app/live/49572724_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0c41c6173e22474c62a6563fab45baf3.png!w80",18:30 | Geylang  vs Hougang
 https://live05.yefpwmc.app/live/16226575_tsc.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80",18:35 | Shanghai vs Guangdong Southern Tigers
+https://live05.yefpwmc.app/live/90865415_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80",19:00 | Persija Jakarta vs CLB Persik Kediri
 https://live05.yefpwmc.app/live/75748097_tsc.m3u8
@@ -59,7 +59,7 @@ https://live05.yefpwmc.app/live/75915087_tsc.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80",01:30 | Galatasaray vs Fenerbahce
 https://live05.yefpwmc.app/live/33982309_tsc.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png!w80",20:00 | 摩里伦斯U23 vs Gil Vicente U23
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80",07:15 | Instituto vs Dep. Riestra
 https://live05.yefpwmc.app/live/87547578_tsc.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f529ef530687fa527658bf93035bddd0.png!w80",22:00 | Famalicao U23 vs Uniao Leiria U23
