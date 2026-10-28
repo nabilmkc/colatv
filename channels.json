@@ -24,956 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | CLB Venezia vs Inter Milan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | CLB Venezia vs Inter Milan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | AC Milan vs Bologna F.C. 1909",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | AC Milan vs Bologna F.C. 1909",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/07428422.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-003000",
-          "name": "⚽ 00:30 | CLB Parma vs Udinese Calcio",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9fadd87d190982c8082dddf1567e0b9b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-003000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-003000",
-                  "name": "00:30 | CLB Parma vs Udinese Calcio",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-003000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | Paderborn vs VfB Stuttgart",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-000000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | Paderborn vs VfB Stuttgart",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-000000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | SC Freiburg vs VfL Wolfsburg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-000000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-000000",
-                  "name": "00:00 | SC Freiburg vs VfL Wolfsburg",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-000000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/07808742.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | Al Nahda vs Al Rayyan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/39af905c31d621f47d12b2fad242cdbd.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-230000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | Al Nahda vs Al Rayyan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-230000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | Al Jazira vs Al-Muharraq",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/9352b8e0b9515b84abf716a32c42777e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-230000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | Al Jazira vs Al-Muharraq",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-230000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | Esbjerg vs Nordsjaelland",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5e88b6bd34b9b435446ca077e78cb112.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-230000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | Esbjerg vs Nordsjaelland",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-230000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-230000",
-          "name": "⚽ 23:00 | CLB AC Oulu vs CLB Vaasa VPS",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/348fa7d49029584354427690fe88f874.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-230000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-230000",
-                  "name": "23:00 | CLB AC Oulu vs CLB Vaasa VPS",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-230000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/33860426.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-010000",
-          "name": "⚽ 01:00 | CLB Brommapojkarna vs Hacken",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/61603b48126b6e023af5811bf43354b2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-010000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-010000",
-                  "name": "01:00 | CLB Brommapojkarna vs Hacken",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-010000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-011500",
-          "name": "⚽ 01:15 | Al-Faisaly Amman vs Al-Taawoun",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d73fc6a782904bb6819be4e0e86e8a55.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-011500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-011500",
-                  "name": "01:15 | Al-Faisaly Amman vs Al-Taawoun",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-011500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-023000",
-          "name": "⚽ 02:30 | Manchester City vs Brighton & Hove Albion FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-023000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-023000",
-                  "name": "02:30 | Manchester City vs Brighton & Hove Albion FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-023000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | Bayer 04 Leverkusen vs Nurnberg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | Bayer 04 Leverkusen vs Nurnberg",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/07808742.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | A.C. Monza vs S.S.C. Napoli",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/18ccab720cfda6be0c39fef579c13c5a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | A.C. Monza vs S.S.C. Napoli",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | Bournemouth vs Aston Villa",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | Bournemouth vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/78905744.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | Sunderland vs Brentford",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/957bdc50c307e2a9b526b34b3792da1a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | Sunderland vs Brentford",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/07428422.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | CLB Genoa vs Juventus F.C.",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/51474fb68c7da46b9c20ebddccec7766.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | CLB Genoa vs Juventus F.C.",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/87547578.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | Fulham vs Crystal Palace",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | Fulham vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/33860426.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-024500",
-          "name": "⚽ 02:45 | FC Bayern München vs CLB Magdeburg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-024500",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-024500",
-                  "name": "02:45 | FC Bayern München vs CLB Magdeburg",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-024500",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-030000",
           "name": "⚽ 03:00 | Liverpool vs Chelsea",
           "type": "single",
@@ -5014,6 +4064,106 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/33982309.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-233000",
+          "name": "⚽ 23:30 | CLB Al Sadd vs Al Shamal",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-233000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-233000",
+                  "name": "23:30 | CLB Al Sadd vs Al Shamal",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-233000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-233000",
+          "name": "⚽ 23:30 | CLB Al Gharafa vs Qatar SC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-233000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-233000",
+                  "name": "23:30 | CLB Al Gharafa vs Qatar SC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-233000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/18812304.m3u8"
                         }
                       ]
                     }
