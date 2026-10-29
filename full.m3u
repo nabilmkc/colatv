@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",03:00 | Liverpool vs Chelsea
-https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",07:30 | Bahia vs CLB Sao Paulo
+https://live05.miekgo.app/live/33860426.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80",03:30 | Porto vs CLB Viseu
-https://live05.miekgo.app/live/49572724.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",05:30 | CLB Santos vs Palmeiras
-https://live05.miekgo.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",06:00 | Atlanta Hawks vs Miami Heat
-https://live05.miekgo.app/live/82054853.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w80",06:00 | Indiana Pacers vs Philadelphia 76ers
-https://live05.miekgo.app/live/56998120.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",07:40 | CLB Chicago Fire vs Orlando City
+https://live05.miekgo.app/live/99121525.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",06:30 | Toronto Raptors vs Orlando Magic
 https://live05.miekgo.app/live/89756030.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",06:30 | Inter Miami vs CLB Cincinnati
-https://live05.miekgo.app/live/75748097.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80",07:00 | Milwaukee Bucks vs Houston Rockets
 https://live05.miekgo.app/live/19919577.m3u8
@@ -26,11 +14,8 @@ https://live05.miekgo.app/live/19919577.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",07:00 | Minnesota Timberwolves vs Golden State Warriors
 https://live05.miekgo.app/live/90865415.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",07:30 | CLB Chicago Fire vs Orlando City
-https://live05.miekgo.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/20456802ad5f8243dc282c4650c414e1.png!w80",07:30 | Bahia vs CLB Sao Paulo
-https://live05.miekgo.app/live/33860426.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",08:30 | Dallas Mavericks vs Oklahoma City Thunder
+https://live05.miekgo.app/live/82054853.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",10:00 | Club America vs Club Tijuana
 https://live05.miekgo.app/live/78905744.m3u8
@@ -53,6 +38,12 @@ https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80",19:15 | Wofoo Tai Po vs Pathum United
 https://live05.miekgo.app/live/07808742.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/03dd1707147dbd5897a8dcae40991e2c.png!w80",19:15 | Phnom Penh Crown vs CLB Kitchee
+https://live05.miekgo.app/live/75748097.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/8a71e9629c5a035b3661c51e089a7c44.png!w80",19:30 | Aarhus Fremad vs FC Copenhagen
+https://live05.miekgo.app/live/49572724.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80",21:00 | CLB Krylya Sovetov vs FK Makhachkala
 https://live05.miekgo.app/live/18812304.m3u8
 
@@ -62,6 +53,12 @@ https://live05.miekgo.app/live/87547578.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",01:00 | Al-Nassr vs Al Kholood
 https://live05.miekgo.app/live/08552895.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80",01:00 | Al-Riyadh vs Al Qadisiya
+https://live05.miekgo.app/live/33982309.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9e90fc4ebbb554f597910a96cf792495.png!w80",01:00 | Atletico Calatayud vs Osasuna
 https://live05.miekgo.app/live/16226575.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80",02:45 | Everton vs Câu lạc bộ bóng đá Newcastle United
+https://live05.miekgo.app/live/02456966.m3u8
 
