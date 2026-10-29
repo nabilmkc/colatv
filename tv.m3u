@@ -1,19 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80",02:45 | ACF Fiorentina vs Atalanta B.C.
-https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",07:00 | New Orleans Pelicans vs Sacramento Kings
+https://live05.miekgo.app/live/19919577.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",01:00 | Al-Nassr vs Al Kholood
-https://live05.miekgo.app/live/08552895.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",06:30 | CLB America de Cali vs Fortaleza CEIF
+https://live05.miekgo.app/live/59444581.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80",02:45 | Everton vs Newcastle United
-https://live05.miekgo.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/3368c6d0adf66a2501032a2a77013cd1.png!w80",01:00 | Lebrijana vs Getafe CF
-https://live05.miekgo.app/live/49572724.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80",01:45 | Braga vs Famalicao
-https://live05.miekgo.app/live/75915087.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/c862eaf286d184ff7b44b07e09bbe8ec.png!w80",03:00 | Sporting Hortaleza vs Sevilla FC
-https://live05.miekgo.app/live/07428422.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png!w80",07:00 | Atlanta Hawks vs Cleveland Cavaliers
+https://live05.miekgo.app/live/90865415.m3u8
 
