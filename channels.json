@@ -24,156 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-030000",
-          "name": "⚽ 03:00 | Manchester United vs A.S. Roma",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-030000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-030000",
-                  "name": "03:00 | Manchester United vs A.S. Roma",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-030000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-030000",
-          "name": "⚽ 03:00 | Feyenoord vs Inter Milan",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/44073f2d2c979a9388f98505ac3b754d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-030000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-030000",
-                  "name": "03:00 | Feyenoord vs Inter Milan",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-030000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-053000",
-          "name": "⚽ 05:30 | CLB Chapecoense SC vs CLB Mirassol",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-053000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-053000",
-                  "name": "05:30 | CLB Chapecoense SC vs CLB Mirassol",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-053000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-073000",
           "name": "⚽ 07:30 | CLB Sport Club Internacional vs Coritiba",
           "type": "single",
@@ -264,56 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/87379114.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Virginia vs Drexel",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/c0c61c59f1c2f72b0c17717a815ab454.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Virginia vs Drexel",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/19919577.m3u8"
                         }
                       ]
                     }
@@ -625,7 +425,7 @@
         },
         {
           "id": "CO LA TV-153000",
-          "name": "⚽ 15:30 | 四二五女足 vs Hồ Chí Minh Nữ",
+          "name": "⚽ 15:30 | April (W) vs Hồ Chí Minh W",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -652,7 +452,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-153000",
-                  "name": "15:30 | 四二五女足 vs Hồ Chí Minh Nữ",
+                  "name": "15:30 | April (W) vs Hồ Chí Minh W",
                   "streams": [
                     {
                       "id": "CO LA TV-153000",
@@ -675,7 +475,7 @@
         },
         {
           "id": "CO LA TV-153000",
-          "name": "⚽ 15:30 | CLB PSS Sleman vs PSGC Ciamis",
+          "name": "⚽ 15:30 | PSS Sleman vs PSGC Ciamis",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -702,7 +502,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-153000",
-                  "name": "15:30 | CLB PSS Sleman vs PSGC Ciamis",
+                  "name": "15:30 | PSS Sleman vs PSGC Ciamis",
                   "streams": [
                     {
                       "id": "CO LA TV-153000",
@@ -1025,7 +825,7 @@
         },
         {
           "id": "CO LA TV-173000",
-          "name": "⚽ 17:30 | Kaya Fc Women vs Melbourne City Nữ",
+          "name": "⚽ 17:30 | Kaya Fc W vs Melbourne City W",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1052,7 +852,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-173000",
-                  "name": "17:30 | Kaya Fc Women vs Melbourne City Nữ",
+                  "name": "17:30 | Kaya Fc W vs Melbourne City W",
                   "streams": [
                     {
                       "id": "CO LA TV-173000",
@@ -2363,7 +2163,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.miekgo.app/live/02456966.m3u8"
+                          "url": "https://live05.miekgo.app/live/97885009.m3u8"
                         }
                       ]
                     }
