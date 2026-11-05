@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-053000",
-          "name": "⚽ 05:30 | CLB Flamengo vs CLB Gremio",
+          "id": "CO LA TV-090000",
+          "name": "⚽ 09:00 | Escorpiones Belen vs Alajuelense",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
+            "url": "https://img.cltvap.cc/football/team/0604e2ebbd9f4650cea0491167ecbd32.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,65 +47,15 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-053000",
+              "id": "CO LA TV-090000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-053000",
-                  "name": "05:30 | CLB Flamengo vs CLB Gremio",
+                  "id": "CO LA TV-090000",
+                  "name": "09:00 | Escorpiones Belen vs Alajuelense",
                   "streams": [
                     {
-                      "id": "CO LA TV-053000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-063000",
-          "name": "⚽ 06:30 | Cucuta vs CLB Santa Fe",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/972c2e951d1ba7680faee53a342bd0a2.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-063000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-063000",
-                  "name": "06:30 | Cucuta vs CLB Santa Fe",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-063000",
+                      "id": "CO LA TV-090000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -175,57 +125,7 @@
         },
         {
           "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Botafogo RJ vs CLB Atletico Mineiro",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-073000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-073000",
-                  "name": "07:30 | Botafogo RJ vs CLB Atletico Mineiro",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-073000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-073000",
-          "name": "⚽ 07:30 | Đội bóng rổ Boston Celtics vs Milwaukee Bucks",
+          "name": "⚽ 07:30 | Boston Celtics vs Milwaukee Bucks",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -252,7 +152,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-073000",
-                  "name": "07:30 | Đội bóng rổ Boston Celtics vs Milwaukee Bucks",
+                  "name": "07:30 | Boston Celtics vs Milwaukee Bucks",
                   "streams": [
                     {
                       "id": "CO LA TV-073000",
@@ -364,56 +264,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-083000",
-          "name": "⚽ 08:30 | CLB Millonarios vs CLB America de Cali",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/88bf2a10fe7e8d3f9a21b73f3f77fcde.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-083000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-083000",
-                  "name": "08:30 | CLB Millonarios vs CLB America de Cali",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-083000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/49572724.m3u8"
                         }
                       ]
                     }
@@ -3574,56 +3424,6 @@
           ]
         },
         {
-          "id": "CO LA TV-100000",
-          "name": "⚽ 10:00 | Santos Laguna Nữ vs Club Tijuana Nữ",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-100000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-100000",
-                  "name": "10:00 | Santos Laguna Nữ vs Club Tijuana Nữ",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-100000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.miekgo.app/live/14830711.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "CO LA TV-100500",
           "name": "⚽ 10:05 | Alacranes de Durango vs CLB Leones Univ Guadalajara",
           "type": "single",
@@ -3664,6 +3464,56 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.miekgo.app/live/59444581.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-101000",
+          "name": "⚽ 10:10 | Santos Laguna Nữ vs Club Tijuana Nữ",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-101000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-101000",
+                  "name": "10:10 | Santos Laguna Nữ vs Club Tijuana Nữ",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-101000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.miekgo.app/live/14830711.m3u8"
                         }
                       ]
                     }
