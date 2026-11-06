@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f323884c2481d25aa4b316a43583b733.png!w80",05:15 | CLB Gimnasia La Plata vs Belgrano
-https://live05.miekgo.app/live/49572724.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/1972a91f675413d693c3946315e3f8ac.png!w80",06:00 | Necaxa Nữ vs CLB nữ Atlas
-https://live05.miekgo.app/live/90865415.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",05:30 | Palmeiras vs Remo Belem (PA)
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",10:00 | Golden State Warriors vs Miami Heat
 https://live05.miekgo.app/live/82054853.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f4ca470181866aba040ea7f1ae022d1e.png!w80",10:00 | Alacranes de Durango vs CLB Leones Univ Guadalajara
+https://live05.miekgo.app/live/59444581.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/a507b1509e1f640108395b0580b46976.png!w80",09:00 | Herediano vs CLB Deportivo Saprissa
+https://live05.miekgo.app/live/90865415.m3u8
 
