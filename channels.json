@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Cerezo Osaka vs Urawa Reds",
+          "id": "CO LA TV-210000",
+          "name": "⚽ 21:00 | Latvia vs CLB Armenia",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",
+            "url": "https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +47,65 @@
           ],
           "sources": [
             {
-              "id": "CO LA TV-130000",
+              "id": "CO LA TV-210000",
               "name": "CO LA TV",
               "contents": [
                 {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | Cerezo Osaka vs Urawa Reds",
+                  "id": "CO LA TV-210000",
+                  "name": "21:00 | Latvia vs CLB Armenia",
                   "streams": [
                     {
-                      "id": "CO LA TV-130000",
+                      "id": "CO LA TV-210000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-210000",
+          "name": "⚽ 21:00 | Đảo Síp vs Montenegro",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-210000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-210000",
+                  "name": "21:00 | Đảo Síp vs Montenegro",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-210000",
                       "name": "Chính",
                       "stream_links": [
                         {
@@ -64,656 +114,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Machida vs Vissel Kobe",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Machida vs Vissel Kobe",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/59444581.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-120000",
-          "name": "⚽ 12:00 | Goyang Carrot Jumpers vs Wonju Dongbu Promy",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-120000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-120000",
-                  "name": "12:00 | Goyang Carrot Jumpers vs Wonju Dongbu Promy",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-120000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-130000",
-          "name": "⚽ 13:00 | Kashima Antlers vs Yokohama F. Marinos",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-130000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-130000",
-                  "name": "13:00 | Kashima Antlers vs Yokohama F. Marinos",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-130000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-133000",
-          "name": "⚽ 13:30 | Brisbane Bullets vs Tasmania JackJumpers",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-133000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-133000",
-                  "name": "13:30 | Brisbane Bullets vs Tasmania JackJumpers",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-133000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-143000",
-          "name": "⚽ 14:30 | LG Sakers vs Busan KTF Sonicboom",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-143000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-143000",
-                  "name": "14:30 | LG Sakers vs Busan KTF Sonicboom",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-143000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/56998120.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-150000",
-          "name": "⚽ 15:00 | Kashiwa Reysol vs Kawasaki Frontale",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-150000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-150000",
-                  "name": "15:00 | Kashiwa Reysol vs Kawasaki Frontale",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-150000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/75915087.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-160000",
-          "name": "⚽ 16:00 | Reilac Shiga FC vs Osaka FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/c7c81ba5deb4cc8d28180e51e0944c74.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-160000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-160000",
-                  "name": "16:00 | Reilac Shiga FC vs Osaka FC",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-160000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/19919577.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-170000",
-          "name": "⚽ 17:00 | FK Chelyabinsk vs Veles Moscow (Rus)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-170000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-170000",
-                  "name": "17:00 | FK Chelyabinsk vs Veles Moscow (Rus)",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-170000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/90865415.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-180000",
-          "name": "⚽ 18:00 | Amarante vs Felgueiras",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/178df2f7b70aa342f101f957d0c3144f.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-180000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-180000",
-                  "name": "18:00 | Amarante vs Felgueiras",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-180000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/16226575.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-180000",
-          "name": "⚽ 18:00 | CD Tondela vs SC Farense",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/4640a8c2881298c36b5c67927ce820f8.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-180000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-180000",
-                  "name": "18:00 | CD Tondela vs SC Farense",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-180000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/99121525.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-183000",
-          "name": "⚽ 18:30 | Calcio Giugliano vs Savoia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2e757283541b53461c2dd9759c39eb85.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-183000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-183000",
-                  "name": "18:30 | Calcio Giugliano vs Savoia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-183000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/07808742.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-183000",
-          "name": "⚽ 18:30 | Ufa vs S. Kostroma",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/bed3e0e7e7677fc51f43b2e6b33dd040.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-183000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-183000",
-                  "name": "18:30 | Ufa vs S. Kostroma",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-183000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/02456966.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-183000",
-          "name": "⚽ 18:30 | Novara vs Lecco",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/62a588b49f69c8d9b12eb069506f4146.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-183000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-183000",
-                  "name": "18:30 | Novara vs Lecco",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-183000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/18812304.m3u8"
                         }
                       ]
                     }
@@ -925,56 +325,6 @@
         },
         {
           "id": "CO LA TV-203000",
-          "name": "⚽ 20:30 | U.S. Salernitana vs CLB Catania",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/948e7850b0d6bd6224a99a647e24e29b.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-203000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-203000",
-                  "name": "20:30 | U.S. Salernitana vs CLB Catania",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-203000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33860426.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-203000",
           "name": "⚽ 20:30 | Potenza vs Scafatese",
           "type": "single",
           "display": "thumbnail-only",
@@ -1075,56 +425,6 @@
         },
         {
           "id": "CO LA TV-210000",
-          "name": "⚽ 21:00 | Latvia vs CLB Armenia",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-210000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-210000",
-                  "name": "21:00 | Latvia vs CLB Armenia",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-210000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/08552895.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-210000",
           "name": "⚽ 21:00 | FK Sochi vs Shinnik Yaroslavl",
           "type": "single",
           "display": "thumbnail-only",
@@ -1175,56 +475,6 @@
         },
         {
           "id": "CO LA TV-210000",
-          "name": "⚽ 21:00 | Đảo Síp vs Montenegro",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-210000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-210000",
-                  "name": "21:00 | Đảo Síp vs Montenegro",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-210000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/33982309.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-210000",
           "name": "⚽ 21:00 | Aston Villa Nữ vs Birmingham Nữ",
           "type": "single",
           "display": "thumbnail-only",
@@ -1264,56 +514,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/07808742.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "CO LA TV-210000",
-          "name": "⚽ 21:00 | Scotland U21 vs USA U21",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.cltvap.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "CO LA TV-210000",
-              "name": "CO LA TV",
-              "contents": [
-                {
-                  "id": "CO LA TV-210000",
-                  "name": "21:00 | Scotland U21 vs USA U21",
-                  "streams": [
-                    {
-                      "id": "CO LA TV-210000",
-                      "name": "Chính",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.wecile.app/live/78905744.m3u8"
                         }
                       ]
                     }
@@ -1875,7 +1075,7 @@
         },
         {
           "id": "CO LA TV-000000",
-          "name": "⚽ 00:00 | Belarus vs Đội tuyển QG Albania ",
+          "name": "⚽ 00:00 | Belarus vs Đội tuyển QG Albania",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1902,7 +1102,7 @@
               "contents": [
                 {
                   "id": "CO LA TV-000000",
-                  "name": "00:00 | Belarus vs Đội tuyển QG Albania ",
+                  "name": "00:00 | Belarus vs Đội tuyển QG Albania",
                   "streams": [
                     {
                       "id": "CO LA TV-000000",
@@ -2763,7 +1963,7 @@
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                          "url": "https://live05.wecile.app/live/18812304.m3u8"
                         }
                       ]
                     }
@@ -4824,6 +4024,156 @@
           ]
         },
         {
+          "id": "CO LA TV-070000",
+          "name": "⚽ 07:00 | Đội bóng rổ Boston Celtics vs Orlando Magic",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-070000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-070000",
+                  "name": "07:00 | Đội bóng rổ Boston Celtics vs Orlando Magic",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-070000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-070000",
+          "name": "⚽ 07:00 | Trinidad & Tobago vs Antigua and Barbuda",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-070000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-070000",
+                  "name": "07:00 | Trinidad & Tobago vs Antigua and Barbuda",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-070000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-073000",
+          "name": "⚽ 07:30 | Miami Heat vs Houston Rockets",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-073000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-073000",
+                  "name": "07:30 | Miami Heat vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-073000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-080000",
           "name": "⚽ 08:00 | Canada vs Guatemala",
           "type": "single",
@@ -4864,6 +4214,406 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/59444581.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-080000",
+          "name": "⚽ 08:00 | Minnesota Timberwolves vs Portland Trail Blazers",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-080000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-080000",
+                  "name": "08:00 | Minnesota Timberwolves vs Portland Trail Blazers",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-080000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/90865415.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-080000",
+          "name": "⚽ 08:00 | New Orleans Pelicans vs Golden State Warriors",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-080000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-080000",
+                  "name": "08:00 | New Orleans Pelicans vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-080000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-090000",
+          "name": "⚽ 09:00 | Denver Nuggets vs Phoenix suns",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-090000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-090000",
+                  "name": "09:00 | Denver Nuggets vs Phoenix suns",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-090000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/82054853.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-100000",
+          "name": "⚽ 10:00 | UCLA vs Long Beach State",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/22914374027227fe756f0efab86a7b53.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-100000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-100000",
+                  "name": "10:00 | UCLA vs Long Beach State",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-100000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-130000",
+          "name": "⚽ 13:00 | Yemen vs Malaysia",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/aa0f9de3c3f38177051c3c8741dac037.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-130000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-130000",
+                  "name": "13:00 | Yemen vs Malaysia",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-130000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/49572724.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-143000",
+          "name": "⚽ 14:30 | Palestine U17 vs India U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-143000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-143000",
+                  "name": "14:30 | Palestine U17 vs India U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-143000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/59444581.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-153000",
+          "name": "⚽ 15:30 | Afghanistan U17 vs Indonesia U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/a4cc3a85c7cda24dd3e028306403697d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-153000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-153000",
+                  "name": "15:30 | Afghanistan U17 vs Indonesia U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-153000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/19919577.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-153000",
+          "name": "⚽ 15:30 | Myanmar U17 vs jianpuzai U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-153000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-153000",
+                  "name": "15:30 | Myanmar U17 vs jianpuzai U17",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-153000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/82054853.m3u8"
                         }
                       ]
                     }
@@ -4974,6 +4724,106 @@
           ]
         },
         {
+          "id": "CO LA TV-170000",
+          "name": "⚽ 17:00 | Wonju Dongbu Promy vs Anyang KGC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-170000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-170000",
+                  "name": "17:00 | Wonju Dongbu Promy vs Anyang KGC",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-170000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/56998120.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-180000",
+          "name": "⚽ 18:00 | Hà Lan U19 vs Croatia U19",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-180000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-180000",
+                  "name": "18:00 | Hà Lan U19 vs Croatia U19",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-180000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/87379114.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "CO LA TV-183500",
           "name": "⚽ 18:35 | Trung Quốc U19 vs Hàn Quốc U19",
           "type": "single",
@@ -5014,6 +4864,156 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://live05.wecile.app/live/88508431.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | Trung Quốc vs Bahrain",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | Trung Quốc vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75748097.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-190000",
+          "name": "⚽ 19:00 | Cộng hoà Kyrgyzstan vs ĐTQG Việt Nam",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/c2ed005169a8733b7f08567778f9ea04.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-190000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-190000",
+                  "name": "19:00 | Cộng hoà Kyrgyzstan vs ĐTQG Việt Nam",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-190000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/08552895.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CO LA TV-200000",
+          "name": "⚽ 20:00 | Kuwait vs Honduras",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.cltvap.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "CO LA TV-200000",
+              "name": "CO LA TV",
+              "contents": [
+                {
+                  "id": "CO LA TV-200000",
+                  "name": "20:00 | Kuwait vs Honduras",
+                  "streams": [
+                    {
+                      "id": "CO LA TV-200000",
+                      "name": "Chính",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.wecile.app/live/75915087.m3u8"
                         }
                       ]
                     }
