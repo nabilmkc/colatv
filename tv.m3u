@@ -1,7 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",06:00 | Argentina vs Costa Rica
-https://live05.wecile.app/live/08552895.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80",09:30 | Mexico vs Jamaica
+https://live05.wecile.app/live/14830711.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/76b605730bd2606bbcb290f1244dac9a.png!w80",06:00 | Chilê vs Colombia
-https://live05.wecile.app/live/07428422.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/9a0821eac483f99d3f578be0b384beb7.png!w80",11:00 | JEF United Nữ (Jpn) vs AC Nagano Parceiro Nữ
+https://live05.wecile.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80",10:00 | Nicaragua vs Montserrat
+https://live05.wecile.app/live/49572724.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80",10:30 | Los Angeles Clippers vs Utah Jazz
+https://live05.wecile.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/d4adbe6d4467faf30f3057f97ab32b98.png!w80",09:30 | UNLV vs Kansas
+https://live05.wecile.app/live/56998120.m3u8
 
