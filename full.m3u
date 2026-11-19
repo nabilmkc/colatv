@@ -1,24 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",09:30 | Denver Nuggets vs Boston Celtics
-https://live05.wecile.app/live/90865415.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",07:30 | Toronto Raptors vs Washington Wizards
-https://live05.wecile.app/live/56998120.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",08:00 | Dallas Mavericks vs Golden State Warriors
-https://live05.wecile.app/live/89756030.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",08:00 | Oklahoma City Thunder vs Atlanta Hawks
-https://live05.wecile.app/live/82054853.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",10:00 | Los Angeles Lakers vs Utah Jazz
-https://live05.wecile.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/6dff2291fe2e822de2e8068a182c4759.jpg!w80",15:30 | Preston Lions vs South Hobart
-https://live05.wecile.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",15:30 | Queensland Lions SC vs Wollongong Wolves
-https://live05.wecile.app/live/75915087.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80",17:30 | Dempo vs Lajong
+https://live05.wecile.app/live/49572724.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/46453d24ed3673b774bf0d13271bd60a.png!w80",16:00 | Omiya Ardija Ventus vs Inac Kobe Leonesa Nữ
 https://live05.wecile.app/live/18812304.m3u8
@@ -26,11 +8,14 @@ https://live05.wecile.app/live/18812304.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0cf592b401f347755712729a9001f154.png!w80",17:00 | CLB MOIK vs FC Sabail
 https://live05.wecile.app/live/59444581.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",17:00 | Anyang KGC vs KCC Egis
+https://live05.wecile.app/live/82054853.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80",17:00 | Busan KTF Sonicboom vs Seoul Knights
+https://live05.wecile.app/live/90865415.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f6cdc0f1e80f650662078b0c273a6a7e.png!w80",17:30 | Mingachevir vs Câu lạc bộ thể thao Baku
 https://live05.wecile.app/live/14707124.m3u8
-
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80",17:30 | Dempo vs Lajong
-https://live05.wecile.app/live/49572724.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png!w80",19:00 | Vikingur Reykjavik Nữ vs Port FC
 https://live05.wecile.app/live/33982309.m3u8
@@ -41,14 +26,14 @@ https://live05.wecile.app/live/07428422.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80",19:30 | Cong An Ha Noi FC vs CLB Johor Darul Takzim
 https://live05.wecile.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80",19:45 | Al Wasl vs CLB Hatta
-https://live05.wecile.app/live/07808742.m3u8
-
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/e1c7250ad281214eedbb361ba9e35021.png!w80",20:00 | Samaleshwari SC vs Nagaland
 https://live05.wecile.app/live/88508431.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0cb656f78993ef2542ab838079ec9426.png!w80",20:00 | New Caledonia U17 vs Ecuador U17
 https://live05.wecile.app/live/33860426.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/eb2ec2a178c9c75696459e5a9c6779d7.png!w80",20:00 | CLB Termez Surkhon vs CLB FK Andijon
+https://live05.wecile.app/live/75915087.m3u8
 
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/8eb4b4c01bf3375828c5494c2f6e7685.png!w80",20:00 | Pháp U17 vs Haiti U17
 https://live05.wecile.app/live/78905744.m3u8
@@ -71,6 +56,21 @@ https://live05.wecile.app/live/02456966.m3u8
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/cedb12f9c001f1b1cb11bc532967c33e.png!w80",22:25 | Al Ain vs CLB Al Dhafra
 https://live05.wecile.app/live/14830711.m3u8
 
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/771fa17ef16aa90cf6b7c4fab7a5d2ce.png!w80",22:30 | Al Gharraf vs CLB Al Quwa Al Jawiya
+https://live05.wecile.app/live/07808742.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/2d05b2c06841b4f3e6df084479f08594.png!w80",01:00 | Zalgiris vs Panathinaikos
+https://live05.wecile.app/live/89756030.m3u8
+
 #EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",08:00 | Memphis Grizzlies vs Golden State Warriors
 https://live05.wecile.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80",08:00 | Milwaukee Bucks vs Portland Trail Blazers
+https://live05.wecile.app/live/56998120.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80",08:00 | San Antonio Spurs vs Los Angeles Clippers
+https://live05.wecile.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",15:30 | South Melbourne vs Canberra Croatia
+https://live05.wecile.app/live/99121525.m3u8
 

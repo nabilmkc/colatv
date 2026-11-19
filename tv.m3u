@@ -1,16 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",10:00 | Los Angeles Lakers vs Utah Jazz
-https://live05.wecile.app/live/19919577.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0cf592b401f347755712729a9001f154.png!w80",17:00 | CLB MOIK vs FC Sabail
+https://live05.wecile.app/live/59444581.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",09:30 | Denver Nuggets vs Boston Celtics
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/46453d24ed3673b774bf0d13271bd60a.png!w80",16:00 | Omiya Ardija Ventus vs Inac Kobe Leonesa Nữ
+https://live05.wecile.app/live/18812304.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80",17:00 | Busan KTF Sonicboom vs Seoul Knights
 https://live05.wecile.app/live/90865415.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",08:00 | Dallas Mavericks vs Golden State Warriors
-https://live05.wecile.app/live/89756030.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png!w80",17:30 | Dempo vs Lajong
+https://live05.wecile.app/live/49572724.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",07:30 | Toronto Raptors vs Washington Wizards
-https://live05.wecile.app/live/56998120.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/f6cdc0f1e80f650662078b0c273a6a7e.png!w80",17:30 | Mingachevir vs Câu lạc bộ thể thao Baku
+https://live05.wecile.app/live/14707124.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",08:00 | Oklahoma City Thunder vs Atlanta Hawks
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",17:00 | Anyang KGC vs KCC Egis
 https://live05.wecile.app/live/82054853.m3u8
 
