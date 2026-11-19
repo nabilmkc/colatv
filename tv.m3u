@@ -1,13 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/d7e0dd2c30416452115958332ba7c4ee.png!w80",03:00 | Juventus Nữ vs Leuven Nữ
-https://live05.wecile.app/live/97885009.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",10:00 | Los Angeles Lakers vs Utah Jazz
+https://live05.wecile.app/live/19919577.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/e9e2307866d939fc857fb0a31fa89bd7.png!w80",03:00 | Chelsea Nữ vs Paris Saint Germain nữ
-https://live05.wecile.app/live/16226575.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",09:30 | Denver Nuggets vs Boston Celtics
+https://live05.wecile.app/live/90865415.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png!w80",03:00 | Alianza Atl vs FBC Melgar
-https://live05.wecile.app/live/02456966.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",08:00 | Dallas Mavericks vs Golden State Warriors
+https://live05.wecile.app/live/89756030.m3u8
 
-#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/football/team/71d86f9b07854b3c5352ff6558cd1e73.png!w80",02:30 | Deportiva Minera vs CLB Cartagena
-https://live05.wecile.app/live/33860426.m3u8
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",07:30 | Toronto Raptors vs Washington Wizards
+https://live05.wecile.app/live/56998120.m3u8
+
+#EXTINF:-1 group-title="CO LA TV" tvg-logo="https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",08:00 | Oklahoma City Thunder vs Atlanta Hawks
+https://live05.wecile.app/live/82054853.m3u8
 
